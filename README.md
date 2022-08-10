@@ -1,1 +1,1 @@
-A Simple Shell Project done by Cohort 7
+A project on Unix and the simple
